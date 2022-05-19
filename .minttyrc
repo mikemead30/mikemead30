@@ -1,0 +1,8 @@
+ThemeFile=mintty
+Font=Fixedsys
+FontWeight=700
+FontIsBold=yes
+Locale=en_GB
+Term=xterm-256color
+ForegroundColour=0,255,0
+BackgroundColour=0,0,255

@@ -1,0 +1,2 @@
+"# arduino-esp32-master"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/mikemead30/arduino-esp32-master.gitgit push -u origin main
+"# arduino-esp32-master"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/mikemead30/arduino-esp32-master.gitgit push -u origin main
